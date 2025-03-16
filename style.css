@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(38, 37, 37);
+    padding-top: 12px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+.item{
+    width: 90vw;
+    height: 80vh;
+    margin: 10px auto;
+    padding-left: 45px;
+}
+.item2{
+    width: 18vw;
+    height: 46vh;
+}
+.item3{
+    width: 18vw;
+    height: 35vh;
+    background-color: rgb(5, 167, 169);
+    padding-top: 65px;
+    font-family: sans-serif;
+    color: white;
+}
+.button1{
+    width: 18vw;
+    height: 8vh;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(230, 226, 226);
+}
+.p1{
+    text-align: center;
+}
+.item4{
+    width: 18vw;
+    height: 46vh;
+    margin-left: 200px;
+   margin-top: -217.2px;
+}
+
+.item6{
+    width: 18vw;
+    height: 35vh;
+    background-color: rgb(215, 60, 3);
+    padding-top: 65px;
+    font-family: sans-serif;
+    color: white;
+}
+.p2{
+    text-align: center;
+}
+.button2{
+    width: 18vw;
+    height: 8vh;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(230, 226, 226);
+}
+
+.item7{
+    width: 18vw;
+    height: 46vh;
+    margin-left: 400px;
+    margin-top: -217.5px;
+}
+.item9{
+    width: 18vw;
+    height: 35vh;
+    background-color: rgb(246, 118, 98);
+    padding-top: 65px;
+    font-family: sans-serif;
+    color: white;
+}
+.p3{
+    text-align: center;
+}
+.button3{
+    width: 18vw;
+    height: 8vh;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(230, 226, 226);
+}
+.item11{
+    width: 18vw;
+    height: 46vh;
+    margin-left: 600px;
+    margin-top: -217.5px;
+}
+.item13{
+    width: 18vw;
+    height: 35vh;
+    background-color: rgb(41, 63, 123);
+    padding-top: 65px;
+    font-family: sans-serif;
+    color: white;
+}
+.p4{
+    text-align: center;
+}
+.button4{
+    width: 18vw;
+    height: 8vh;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(230, 226, 226);
+}
